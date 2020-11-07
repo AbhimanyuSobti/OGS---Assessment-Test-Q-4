@@ -5,7 +5,7 @@ Products list contains Smartphones, Camera, Watches.
 Corresponding to each product an excel file is created which is sorted based upon rating (Descending)
 
 Configuration:- 
-1) Product list can be updated and no of results can also be changed from 10 by following steps
+1) Product list can be updated and no of results can also be changed from 20 by following steps
 2) Go to State-0 of the code and go to initialize sequence & change the values accordingly.
 
 Output:- 
